@@ -31,3 +31,40 @@ Speaker notes go here
 
 Note:
 Aufmalen einer Microservices-Uebersicht
+
+--- 
+
+## Automation
+
+### Reduce
+
+ - Error-prone manual tasks
+ - Downtimes & callouts
+ - Documentation effort
+
+### Gain 
+
+ - Faster deployments
+ - Better disaster recovery
+ - Sleep at night
+
+---
+
+## Containers and Clusters
+
+---
+
+### Containers 
+
+ - Automate packaging
+ - Make applications portable through environments (dev/test/prod)
+ - Make deployments atomic (as opposed to traditional CM)
+ - Enhance resource utilization (no more a full VM per application)
+
+---
+
+### Clusters (K8s)
+
+ - Automate on which resource to run applications
+ - Reduce the need for manual bookkeeping (which app runs on which server?)
+ - Provide a consistent and quick way for deployments
