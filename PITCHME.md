@@ -1,12 +1,26 @@
-# Black
+# Cloud Native
 
-### A GitPitch Presentation Template
+### What does Cloud Native mean and what does it consist of?
+
+Based on the blog series by Joe Beda
 
 ---
 
-## Tips!
+## Cloud Native: Definition
+ 
+There is no hard definition; mostly comprised of
+
+ - Structuring teams, culture and technology
+ - Automation
+ - Observability
+ - Microservices
+ - Efficient resource usage
+
 
 <br>
+
+
+---
 
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
