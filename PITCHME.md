@@ -36,12 +36,15 @@ Aufmalen einer Microservices-Uebersicht
 
 ## Automation
 
+---
+
 ### Reduce
 
  - Error-prone manual tasks
  - Downtimes & callouts
  - Documentation effort
 
+---
 
 ### Gain 
 
@@ -70,7 +73,7 @@ Aufmalen einer Microservices-Uebersicht
  - Reduce the need for manual bookkeeping (which app runs on which server?)
  - Provide a consistent and quick way for deployments
 
- --- 
+--- 
 
 ## Observability
 
