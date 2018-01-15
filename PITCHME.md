@@ -11,10 +11,10 @@ Based on the blog series by Joe Beda
 There is no hard definition; mostly comprised of
 
  - Structuring teams, culture and technology
+ - Efficient resource usage
  - Automation
  - Observability
  - Microservices
- - Efficient resource usage
 
 
 Note:
@@ -29,7 +29,7 @@ Speaker notes go here
  - There is no space for assigning blame, work as a Team!   
 
 Note:
-Es gibt kein Netzter/Storage/... ist schuld. Arbeitet zusammen an Problemen und "Schuld ping pong" muss aufhören.
+Es gibt kein Netzer/Storage/... ist schuld. Arbeitet zusammen an Problemen und "Schuld ping pong" muss aufhören.
 Jeder braucht basic knowledge von dem jeweils anderen um zu verstehen wie sie die Application in einem produktiven Umfeld verhält.
 
 --- 
