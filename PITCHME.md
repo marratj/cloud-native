@@ -79,8 +79,50 @@ Aufmalen einer Microservices-Uebersicht
 
 Don't trust your systems will 'just run', gain insight to as much components as possible
 
+---
+
+### Do
+
  - Monitoring of components (cluster resources, application endpoints)
  - Consolidate and analyze logging centrally
  - Build proper rulesets for both monitoring and logging
  - Make them visible in a dashboard
+ - Proactively step in before the shit hits the fan
  - And most importantly: Automate the above
+
+---
+
+### Don't
+
+ - Wait for monitoring alerts to react to
+ - Wait for callouts at night
+ - Manually scan through logs on single servers
+ - Just throw a problem over the wall to another team
+ - Wait until someone takes a problem to you
+
+---
+## Structuring teams, culture and technology
+
+ - Work together and not seperated
+ - Ops needs basic understanding of Dev and vice versa
+ - Know what is the goal of the project
+ - There is no space for assigning blame, work as a Team!   
+
+Note:
+Es gibt kein Netzter/Storage/... ist schuld. Arbeitet zusammen an Problemen und "Schuld ping pong" muss aufhören.
+Jeder braucht basic knowledge von dem jeweils anderen um zu verstehen wie sie die Application in einem produktiven Umfeld verhält.
+
+---
+## Efficient resource usage
+
+ - Works hand in hand with Automation
+ - Think about what you are doing
+ - Be Lazy
+ - Use tools as much as possible
+
+Note:
+Denkt drüber nach was ihr tut und vorallem wie ihr es tut. Versucht alles zu automatisieren und wenn es nur eine maus klick ist.
+Seit faul um effizienter zu sein.
+Benutzt tools und sucht nach neuen Tools, wir müssen das rad nicht neu erfinden.
+
+---
