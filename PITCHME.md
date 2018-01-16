@@ -17,8 +17,6 @@ There is no hard definition; mostly comprised of
  - Observability
 
 
-Note:
-Speaker notes go here
 
 ---
 ## Structuring teams, culture and technology
@@ -28,9 +26,6 @@ Speaker notes go here
  - Know what is the goal of the project
  - There is no space for assigning blame, work as a Team!   
 
-Note:
-Es gibt kein Netzer/Storage/... ist schuld. Arbeitet zusammen an Problemen und "Schuld ping pong" muss aufhören.
-Jeder braucht basic knowledge von dem jeweils anderen um zu verstehen wie sie die Application in einem produktiven Umfeld verhält.
 
 --- 
 ## Efficient resource usage
@@ -40,10 +35,6 @@ Jeder braucht basic knowledge von dem jeweils anderen um zu verstehen wie sie di
  - Be Lazy
  - Use tools as much as possible
 
-Note:
-Denkt drüber nach was ihr tut und vorallem wie ihr es tut. Versucht alles zu automatisieren und wenn es nur eine maus klick ist.
-Seit faul um effizienter zu sein.
-Benutzt tools und sucht nach neuen Tools, wir müssen das rad nicht neu erfinden.
 
 ---
 
