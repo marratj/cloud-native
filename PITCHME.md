@@ -13,8 +13,8 @@ There is no hard definition; mostly comprised of
  - Structuring teams, culture and technology
  - Efficient resource usage
  - Automation
- - Observability
  - Microservices
+ - Observability
 
 
 Note:
